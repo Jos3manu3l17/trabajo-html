@@ -38,9 +38,30 @@ body{
   color: #515151;
   text-align: center;
 }
-.punto2{
-  background: rgb(15, 20, 30);
+
+.punto1 {
+  background-color: #dd4141;
 }
-.punto2-1{
-  background;
+
+.punto2 {
+  background-color: rgb(65, 78, 53)
+}
+.punto3 {
+  background-color: rgb(28, 110, 89);
+}
+
+.punto4 {
+  background-color: rgb(88, 74, 66);
+}
+
+.punto5 {
+  background-color: rgb(88, 45, 88);
+}
+
+.punto6 {
+  background-color: rgb(87, 90, 65);
+}
+
+.contenedor {
+  background: url("./characters/leo_messi.jpg");
 }
